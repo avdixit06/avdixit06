@@ -1,9 +1,7 @@
-# Hey, I'm Akshita Vinit Dixit 👋
-
-> *Turning raw data into financial insight — one model at a time.*
+# Hey, I'm Akshita Vinit Dixit 
 
 🎓 **B.S. Statistics & Data Science** · IIT Kanpur
-📍 Kanpur, India
+📍 Mumbai, India
 
 Undergrad at one of India's premier institutions, working at the intersection of **statistical modelling**, **machine learning**, and **quantitative finance**. Building the toolkit to tackle real-world financial problems with rigorous data science.
 
@@ -28,7 +26,6 @@ Undergrad at one of India's premier institutions, working at the intersection of
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
